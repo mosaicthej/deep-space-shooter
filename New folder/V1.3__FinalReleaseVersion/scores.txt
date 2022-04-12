@@ -1,0 +1,298 @@
+Player test4
+Score 1320601.0416900285         Up to Wave: 7Time Survived238.98236764145588secondsTime of entry-- 2018-06-15 16:18:23.169000
+------------------------------------end of entry------------------------------------
+
+Player test #5
+Score 696212.8189216021         Up to Wave: 6
+Time Survived197.8417637956908seconds
+Time of entry-- 2018-06-15 16:23:27.471000
+------------------------------------end of entry------------------------------------
+
+
+
+Player test#6
+Score 488582.570379236         Up to Wave: 5
+Time Survived150.28498503215172seconds
+Time of entry-- 2018-06-15 16:27:21.694000
+------------------------------------end of entry------------------------------------
+
+
+
+Player test #7--this guy sucks
+Score 181210.33899086254         Up to Wave: 3
+Time Survived81.15130325249399seconds
+Time of entry-- 2018-06-15 16:29:12.486000
+------------------------------------end of entry------------------------------------
+
+
+
+Player Mark's last try---
+Score 13964614.62131989         Up to Wave: 14
+Time Survived 513.902746775109seconds
+Time of entry-- 2018-06-15 17:01:27.366000
+------------------------------------end of entry------------------------------------
+
+
+
+Player Jenny you suck
+Score 883699.9562492197         Up to Wave: 5
+Time Survived809.6573231269952seconds
+Time of entry-- 2018-06-15 22:38:44.570000
+------------------------------------end of entry------------------------------------
+
+
+
+Player Mak
+Score 329625.8468678093         Up to Wave: 4
+Time Survived118.75460953206652seconds
+Time of entry-- 2018-06-16 12:32:13.323000
+------------------------------------end of entry------------------------------------
+
+
+
+Player mm
+Score 136751.85502106114         Up to Wave: 3
+Time Survived79.23954206759078seconds
+Time of entry-- 2018-06-16 12:34:00.943000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 457780.15922691184         Up to Wave: 5
+Time Survived157.73378719250158seconds
+Time of entry-- 2018-06-16 14:58:24.949000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 319499.7997960071         Up to Wave: 4
+Time Survived131.44798459905314seconds
+Time of entry-- 2018-06-16 15:01:53.410000
+------------------------------------end of entry------------------------------------
+
+
+
+Player trial#5
+Score 7376070.790445116         Up to Wave: 11
+Time Survived429.96763275295336seconds
+Time of entry-- 2018-06-16 15:09:33.573000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 5125726.999217121         Up to Wave: 10
+Time Survived371.0869972590957seconds
+Time of entry-- 2018-06-16 15:36:51.626000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 53755.93669999996         Up to Wave: 1
+Time Survived28.503661479542206seconds
+Time of entry-- 2018-06-16 15:39:38.112000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 220546.64216410025         Up to Wave: 3
+Time Survived94.20988432223204seconds
+Time of entry-- 2018-06-16 15:44:02.535000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 112649.83745221401         Up to Wave: 2
+Time Survived60.77063409439224seconds
+Time of entry-- 2018-06-16 15:45:48.998000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 151666.0362584022         Up to Wave: 3
+Time Survived71.91622082882489seconds
+Time of entry-- 2018-06-16 15:47:19.972000
+------------------------------------end of entry------------------------------------
+
+
+
+Player owen
+Score 356053.3398183093         Up to Wave: 4
+Time Survived114.75066589699217seconds
+Time of entry-- 2018-06-18 15:27:14.800000
+------------------------------------end of entry------------------------------------
+
+
+
+Player I suck
+Score 142385.4852031567         Up to Wave: 3
+Time Survived73.32445792065968seconds
+Time of entry-- 2018-06-18 15:28:48.842000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 68762.92423710323         Up to Wave: 2
+Time Survived51.026470412980636seconds
+Time of entry-- 2018-06-19 09:31:12.355000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 67695.80288367887         Up to Wave: 2
+Time Survived47.68758098714726seconds
+Time of entry-- 2018-06-19 09:32:14.767000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 304509.6610545388         Up to Wave: 4
+Time Survived124.43763209190817seconds
+Time of entry-- 2018-06-19 09:39:18.369000
+------------------------------------end of entry------------------------------------
+
+
+
+Player bob
+Score 513366.60016567         Up to Wave: 5
+Time Survived172.88469112339527seconds
+Time of entry-- 2018-06-19 12:14:46.836000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score 204493.11938082683         Up to Wave: 3
+Time Survived109.106567658562seconds
+Time of entry-- 2018-06-19 13:56:44.169000
+------------------------------------end of entry------------------------------------
+
+
+
+Player i finally see trumpi finally see trump!!ss
+Score 675598.844591915         Up to Wave: 5
+Time Survived199.42561904687852seconds
+Time of entry-- 2018-06-19 14:00:56.881000
+------------------------------------end of entry------------------------------------
+
+
+
+Player Ciara
+Score 2954052.073020246         Up to Wave: 8
+Time Survived211.73445532297904seconds
+Time of entry-- 2018-10-12 15:22:45.334000
+------------------------------------end of entry------------------------------------
+
+
+
+Player test0418
+Score       190425.21958911055          Up to Wave: 3
+Time Survived       80.47171319551776  seconds 
+Time of entry-- 2019-04-18 16:05:55.901000
+------------------------------------end of entry------------------------------------
+
+
+
+Player test041801
+Score       2233563.0975809894          Up to Wave: 8
+Time Survived       245.13752535741887  seconds 
+Time of entry-- 2019-04-18 16:10:51.690000
+------------------------------------end of entry------------------------------------
+
+
+
+Player asdgh
+Score       947003.3468679842          Up to Wave: 6
+Time Survived       175.2733810495556  seconds 
+Time of entry-- 2019-04-18 16:13:59.705000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 300
+Score       16963.415600000022          Up to Wave: 1
+Time Survived       9.404233179578824  seconds 
+Time of entry-- 2019-05-03 15:21:18.358000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score       13326.4698          Up to Wave: 0
+Time Survived       3.341357648280525  seconds 
+Time of entry-- 2019-05-03 15:29:25.054000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score       35403.18389999998          Up to Wave: 1
+Time Survived       19.857168602685473  seconds 
+Time of entry-- 2019-05-03 15:32:43.002000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score       5973.913000000007          Up to Wave: 0
+Time Survived       1.6493714982612055  seconds 
+Time of entry-- 2019-05-03 15:40:23.436000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score       7138.689199999985          Up to Wave: 0
+Time Survived       1.699712012171561  seconds 
+Time of entry-- 2019-05-03 15:41:40.432000
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score       8928.39450000001          Up to Wave: 0
+Time Survived       2.5272810999999997  seconds 
+Time of entry-- 2020-01-07 10:12:32.228704
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score       139621.13216051244          Up to Wave: 3
+Time Survived       69.7301552  seconds 
+Time of entry-- 2021-04-04 01:13:40.779872
+------------------------------------end of entry------------------------------------
+
+
+
+Player 
+Score       108399.00866428023          Up to Wave: 3
+Time Survived       59.108492200000015  seconds 
+Time of entry-- 2021-04-04 01:14:55.140826
+------------------------------------end of entry------------------------------------
+
+
+
+Player j
+Score       632990.7046471708          Up to Wave: 5
+Time Survived       138.12792049999996  seconds 
+Time of entry-- 2021-04-04 01:18:47.993780
+------------------------------------end of entry------------------------------------
+
+
+
+Player k
+Score       74637.3576539048          Up to Wave: 2
+Time Survived       48.045540700000004  seconds 
+Time of entry-- 2021-04-04 01:20:30.267041
+------------------------------------end of entry------------------------------------
+

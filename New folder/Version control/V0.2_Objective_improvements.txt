@@ -1,0 +1,14 @@
+
+objectives: *manu_page *tutorial *different_levels *chapters *shop_option *items_when_died *scores *basic_audio *basic_graphics
+__________________________________________-------------------for developers---------------______________________________________________________________
+
+Dolly(Gr.10) - too hard
+	Suggestions: increase the bullets as game proceeds.(different stage)
+
+Joseph(Gr.11) - leaked call of duty game play 2019. 
+	Suggestions: Items and powers after getting shot. 
+
+Maya (10) - Enemy bullets are too fast and hard.
+	
+
+Ramani(11) - add instructions, some kind of score, otherwise really good game
