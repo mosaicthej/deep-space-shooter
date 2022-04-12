@@ -7,7 +7,7 @@ There is no thing in git workflow as we did not know git at that time.
 sorry for bad formatting and file structures
 
 
-Looking to recreate this as android game / html5 web game some day.
+Looking to recreate this as android game / html5 web game, with multiplayer mode.
 
 
 Loved Touhou and used many of their soundtracks, thank you Team Shanghai Alice, my forever idol!
